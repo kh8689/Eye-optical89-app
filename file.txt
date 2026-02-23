@@ -1,0 +1,7 @@
+
+## التقنيات المستخدمة
+- React 18
+- TypeScript
+- Tailwind CSS
+- Vite
+- Lucide Icons
